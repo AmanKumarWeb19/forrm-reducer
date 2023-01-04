@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.form-wrapper {
+  width: fit-content;
+  margin: auto;
+}
+
+.useremail-wrapper,
+.userpassword-wrapper {
+  width: 500px;
+  display: flex;
+  margin: 0.5rem 0;
+}
+
+.useremail-wrapper label,
+.userpassword-wrapper label {
+  width: 200px;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
